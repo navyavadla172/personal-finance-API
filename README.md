@@ -107,3 +107,21 @@ This Personal Finance API provides a simple and effective way to manage your fin
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+![Screenshot 2024-10-23 031550](https://github.com/user-attachments/assets/2a11188e-33bc-4f97-a1bf-de6ae267869c)
+
+![Screenshot 2024-10-23 031513](https://github.com/user-attachments/assets/631cd23f-2959-4655-b2b6-1e41858b8c3e)
+
+![Screenshot 2024-10-23 031437](https://github.com/user-attachments/assets/31099af4-694b-41ad-9578-a15ba399a12c)
+
+![Screenshot 2024-10-23 031412](https://github.com/user-attachments/assets/5b64e4db-7df7-412f-a99c-15ae0de2de3f)
+
+![Screenshot 2024-10-23 031348](https://github.com/user-attachments/assets/403f82e5-3214-4a3a-8ed0-4029ca847e9d)
+
+![Screenshot 2024-10-23 031329](https://github.com/user-attachments/assets/d4c3806c-71bf-4323-a35a-f5f6a076c95c)
+
+![Screenshot 2024-10-23 031257](https://github.com/user-attachments/assets/072a045d-4853-4766-991d-701e2c484a3d)
+
+![Screenshot 2024-10-23 031222](https://github.com/user-attachments/assets/9ffc390d-8381-40bb-be0f-b3ae77a6569b)
